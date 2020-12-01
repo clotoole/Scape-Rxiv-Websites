@@ -3,7 +3,5 @@ Would you like to scrape the Rxiv websites? Including: BioRxiv, and aRxiv? Well 
 <br/>
 1. Scrape either BioRxiv or aRxiv webpages for basic metadata
 2. Get the publication data
-<br/>
 3. Combine publication and meta data
-<br/>
 4. Download full text PDFs
